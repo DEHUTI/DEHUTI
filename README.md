@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEHUTI
-- 👀 I’m interested in coding
-- 🌱 I’m currently doing projects on python and enhancing programing skills
+- 👀 welcome to coder world
+- 🌱 I’m currently doing projects on python
 
 - 📫 How to reach me dehutiarbat1999@gmail.com
 
